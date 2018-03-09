@@ -1,1 +1,2 @@
-# A_Jones-Lab5
+# JSPlatformer
+JS Platformer for DIG 3480C
